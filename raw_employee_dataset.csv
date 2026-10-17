@@ -1,0 +1,37 @@
+Employee_ID,Name,Age,City,Salary,Join_Date,Department
+E001,Aarav Sharma,25,Kolkata,45000,2022-01-15,IT
+E002,Diya Sen,29,Calcutta,52000,15/03/2021,HR
+E003,Rohan Das,31,kolkata ,61000,"Mar 20, 2020",Finance
+E004,Mira Roy,27,New Delhi,48000,2023/04/10,IT
+E005,Kabir Ghosh,34,Delhi,72000,2020-11-01,Sales
+E006,Ananya Paul,24,Mumbai,N/A,2024-02-05,IT
+E007,Ishaan Bose,41,MUMBAI,98000,05-06-2018,Finance
+E008,Tara Dutta,30,Bombay,67000,2019-07-21,HR
+E009,Neel Mukherjee,28,Pune,56000,2021-12-12,Sales
+E010,Sana Khan,36,Pune ,83000,2020-08-30,IT
+E011,Arjun Mitra,26,Bengaluru, 59000 ,2022-09-01,IT
+E012,Ira Chatterjee,33,Bangalore,105000,2019-02-14,Finance
+E013,Dev Kapoor,38,Chennai,125000,2017-10-09,Sales
+E014,Nisha Ali,22,Chennai,39000,2024-06-01,HR
+E015,Vivaan Saha,45,Hyderabad,1800000,2015-05-12,IT
+E016,Meera Nair,39,Hydrabad,112000,2018-03-17,Finance
+E017,Advik Jain,27,Jaipur,64000,2022-04-22,Sales
+E018,Riya Bose,29,Jaipur,71000,2021-06-18,HR
+E019,Kian Mehta,32,Ahmedabad,92000,2020-01-07,Finance
+E020,Myra Das,28,Ahmedabad,68000,2022-11-03,IT
+E021,Reyansh Roy,35,Kolkata,not disclosed,2021-05-19,Sales
+E022,Aditi Ghosh,26,Delhi,54000,2023-01-11,HR
+E023,Yuvan Sen,30,Mumbai,61000,2020-07-09,IT
+E024,Sara Paul,37,Bengaluru,89000,2018-12-02,Finance
+E025,Atharv Das,29,Kolkata,47000,2022-01-15,IT
+E026,Kiara Roy,31,Pune,76000,2021-04-16,Sales
+E027,Om Prasad,28,Hydrabad,69000,2022-08-08,HR
+E028,Zoya Khan,42,Delhi,135000,2016-09-27,Finance
+E029,Aarav Sharma,25,Kolkata,45000,2022-01-15,IT
+E030,Rudra Sen,999,Chennai,62000,2020-03-14,IT
+E031,Ishita Das,27,New Delhi,-5000,2023-08-10,HR
+E032,Pari Roy,34,Mumbai,74000,2021-02-29,Sales
+E033,Neil Bose, ,Bangalore,81000,2020-10-10,Finance
+E034,Avni Sen,30,Kolkata,58000,2022-05-05,IT
+E035,Samar Ali,28,Delhi,61000,2022-05-05,Sales
+E036,Mahi Jain,32,Mumbai,99000,2019-09-09,Finance
